@@ -6,5 +6,5 @@ Test Git patch
 Test git patch
 Test git diff
 Test git format-patch
-add format-path -M
-Test Revert
+Test revert
+Test reset
