@@ -4,5 +4,3 @@ Git is very good!
 Git VS SVN
 Test Git patch
 Test git patch
-Test git add
-Test git diff
