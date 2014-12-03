@@ -8,3 +8,4 @@ Test git diff
 Test git format-patch
 Test revert
 Test reset
+Test revert1
